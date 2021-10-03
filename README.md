@@ -4,7 +4,7 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 </br>
 
 ## Me chamo Matheus Barbosa
-- Eu sou do Brasil e vivo precisamente em Recife :sunny::parasol_on_ground:
+- Eu sou do Brasil :sunny::parasol_on_ground:
 - Estou me graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco
 - Meus estudos estão sendo direcionados ao front-end, banco de dados e python
 - Além de TI, gosto de aviação, música, games e assuntos internacionais
