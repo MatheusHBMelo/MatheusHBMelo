@@ -44,8 +44,8 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusH&layout=compact&theme=chartreuse-dark)](https://github.com/MatheusHBMelo/github-readme-stats)
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusH&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=chartreuse-dark)
 
 
 <!--
