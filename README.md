@@ -12,7 +12,7 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
 </br>
 
-## Minhas habilidades (básico):
+## Minhas habilidades (em desenvolvimento):
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
