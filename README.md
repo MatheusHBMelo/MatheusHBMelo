@@ -44,10 +44,8 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 </br>
 </br>
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHBMelo&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHBMelo&layout=compact&theme=chartreuse-dark)](https://github.com/MatheusHBMelo/github-readme-stats)
-
-
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHBMelo&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **MatheusHBMelo/MatheusHBMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
