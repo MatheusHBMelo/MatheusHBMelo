@@ -3,8 +3,7 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 </br>
 </br>
 
-## Me chamo Matheus Barbosa
-- Eu sou do Brasil :sunny::parasol_on_ground:
+## Me chamo Matheus Henrique Barbosa de Melo
 - Estou me graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco
 - Meus estudos estão sendo direcionados ao front-end, banco de dados, Java e Python
 - Além de TI, gosto de aviação, música, games e assuntos internacionais
