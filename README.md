@@ -4,9 +4,9 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 </br>
 
 ## Me chamo Matheus Henrique Barbosa de Melo
-- Estou me graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco
-- Meus estudos estão sendo direcionados ao front-end, banco de dados, Java e Python
-- Além de TI, gosto de aviação, música, games e assuntos internacionais
+- Estou graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco (4º semestre)
+- Atualmente estudo front-end, java e banco de dados.
+- Também gosto de aviação, música, games e assuntos internacionais.
 </br>
 
 ## Minhas habilidades:
