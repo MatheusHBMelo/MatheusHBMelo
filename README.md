@@ -38,18 +38,16 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 </br>
 </br>
 
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=chartreuse-dark)
+</br>
+
 ## Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheushbmelo/)](https://www.linkedin.com/in/matheushbmelo/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheushbmelov@gmail.com)](mailto:matheushbmelo@gmail.com)
-
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCa5V9ziNZy1gvto1JRdSh6A)](https://www.youtube.com/channel/UCa5V9ziNZy1gvto1JRdSh6A)
 </br>
 </br>
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=chartreuse-dark)
-
 
 <!--
 **MatheusHBMelo/MatheusHBMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
