@@ -9,6 +9,7 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 - Também gosto de aviação, música, games e assuntos internacionais.
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
 </br>
 
 ## Minhas habilidades / estudos:
