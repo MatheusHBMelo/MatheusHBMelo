@@ -5,28 +5,16 @@
 
 ## Minhas habilidades:
 
-### Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="max-width:100%;"></img>
-</br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="max-width:100%;"></img>
-</br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45" style="max-width:100%;"></img>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Matheus-java" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Matheus-mysql" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+</div>
 
 </br>
 </br>
 
-## Tecnologias que já utilizei:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mdb" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" style="max-width:100%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" style="max-width:100%;"/>
-</br>
-</br>
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHBMelo&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHBMelo&layout=compact)](https://github.com/matheushbmelo/github-readme-stats)
 
 
 ## Contatos:
