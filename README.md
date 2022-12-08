@@ -1,15 +1,10 @@
-### Olá, bem-vindo ao meu perfil! :fist_right::fist_left:
-Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
-</br>
-</br>
-
-## Me chamo Matheus Henrique Barbosa de Melo
-- Estou graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco (4º semestre)
-- Atualmente estudo front-end, java e banco de dados.
-- Também gosto de aviação, música, games e assuntos internacionais.
+### Olá, Me chamo Matheus Henrique Barbosa de Melo, bem-vindo ao meu perfil! :fist_right::fist_left:
+- Sou formado em Análise e Desenvolvimento de Sistemas pela parceria Porto Digital Recife & Faculdade Senac Pernambuco 
+- Atualmente estudo Java e Banco de Dados relacionais com MYSQL.
+- Gosto de aviação, música, games e assuntos internacionais.
 </br>
 
-## Minhas habilidades / estudos:
+## Minhas habilidades:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
