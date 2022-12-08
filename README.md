@@ -5,13 +5,9 @@
 
 ## Habilidades:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-java" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Matheus-mysql" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Matheus-git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-</div>
-</br>
-</br>
+- **Java**
+- MySQL
+- Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHBMelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
 
