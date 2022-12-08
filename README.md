@@ -3,7 +3,7 @@
 - Atualmente estudo desenvolvimento BackEnd com Java, Spring Boot e MySQL
 </br>
 
-## Minhas habilidades:
+## Habilidades:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-java" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
@@ -13,7 +13,6 @@
 
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusHBMelo&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHBMelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
-
 
 ## Contatos:
 
