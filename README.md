@@ -1,13 +1,13 @@
 ## Olá, me chamo Matheus Henrique Barbosa de Melo! :fist_right::fist_left:
-- Sou formado em Análise e Desenvolvimento de Sistemas pela parceria Porto Digital & Faculdade Senac Pernambuco 
+- Sou formado em Análise e Desenvolvimento de Sistemas 
 - Atualmente estudo desenvolvimento BackEnd com Java, Spring Boot e MySQL
-</br>
 
 ## Habilidades:
 
 - **Java**
 - MySQL
 - Git
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHBMelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
 
