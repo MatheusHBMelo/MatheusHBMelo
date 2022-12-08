@@ -1,7 +1,6 @@
-### Olá, Me chamo Matheus Henrique Barbosa de Melo, bem-vindo ao meu perfil! :fist_right::fist_left:
-- Sou formado em Análise e Desenvolvimento de Sistemas pela parceria Porto Digital Recife & Faculdade Senac Pernambuco 
-- Atualmente estudo Java e Banco de Dados relacionais com MYSQL.
-- Gosto de aviação, música, games e assuntos internacionais.
+### Olá, me chamo Matheus Henrique Barbosa de Melo! :fist_right::fist_left:
+- Sou formado em Análise e Desenvolvimento de Sistemas pela parceria Porto Digital & Faculdade Senac Pernambuco; 
+- Atualmente estudo desenvolvimento BackEnd com Java e MySQL;
 </br>
 
 ## Minhas habilidades:
