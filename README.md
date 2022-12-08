@@ -38,12 +38,11 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=chartreuse-dark)
 </br>
 
-## Entre em contato comigo:
+## Contatos:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheushbmelo/)](https://www.linkedin.com/in/matheushbmelo/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheushbmelov@gmail.com)](mailto:matheushbmelo@gmail.com)
-</br>
 </br>
 
 ![Snake animation](https://github.com/MatheusHBMelo/MatheusHBMelo/blob/output/github-contribution-grid-snake.svg)
