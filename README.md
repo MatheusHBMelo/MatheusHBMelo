@@ -5,8 +5,10 @@
 
 ## Minhas habilidades:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="max-width:100%;"></img>
+### Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="max-width:100%;"></img>
+</br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="max-width:100%;"></img>
+</br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45" style="max-width:100%;"></img>
 
 </br>
