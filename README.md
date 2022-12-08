@@ -1,13 +1,13 @@
 ### Olá, me chamo Matheus Henrique Barbosa de Melo! :fist_right::fist_left:
-- Sou formado em Análise e Desenvolvimento de Sistemas pela parceria Porto Digital & Faculdade Senac Pernambuco; 
-- Atualmente estudo desenvolvimento BackEnd com Java e MySQL;
+- Sou formado em Análise e Desenvolvimento de Sistemas pela parceria Porto Digital & Faculdade Senac Pernambuco 
+- Atualmente estudo desenvolvimento BackEnd com Java, Spring Boot e MySQL
 </br>
 
 ## Minhas habilidades:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45" style="max-width:100%;"></img>
 
 </br>
 </br>
