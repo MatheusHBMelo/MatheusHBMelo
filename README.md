@@ -9,9 +9,6 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 - Também gosto de aviação, música, games e assuntos internacionais.
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
-</br>
-
 ## Minhas habilidades / estudos:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
@@ -35,8 +32,6 @@ Aqui você encontrará alguns dos códigos que fiz durante os meus estudos.
 </br>
 </br>
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=chartreuse-dark)
-</br>
 
 ## Contatos:
 
