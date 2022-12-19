@@ -2,6 +2,11 @@
 - I have a degree in Systems Analysis and Development. 
 - I am currently studying BackEnd development with the Java language.
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHBMelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
+</div>
+
 ## My skills:
 <div align="left">
 <img src="https://img.shields.io/badge/java-intermediário-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
