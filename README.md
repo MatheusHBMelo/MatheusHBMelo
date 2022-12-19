@@ -3,20 +3,47 @@
 - I am currently studying BackEnd development with the Java language.
 
 ## My skills:
+<div align="left">
+<img src="https://img.shields.io/badge/java-intermediário-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
+</div>
 
+## Tools:
 
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+</div>
+  
+  
+## IDE's:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
+</div>
+  
 ## Contatos:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheushbmelo/)](https://www.linkedin.com/in/matheushbmelo/)
+<div align="left">
+<a href="https://www.linkedin.com/in/matheushbmelo" alt="Linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+<a href="mailto:matheushbmelo@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheushbmelov@gmail.com)](mailto:matheushbmelo@gmail.com)
+<a href="https://github.com/MatheusHBMelo" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+<a href="https://dev.to/matheushbmelo" alt="DevTo">
+  <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/matheushbmelo/" alt="Linkedin">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-</a>
-
-<a href="mailto:matheushbmelo@gmail.com" alt="gmail">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-</a>
 
 ![Snake animation](https://github.com/MatheusHBMelo/MatheusHBMelo/blob/output/github-contribution-grid-snake.svg)
