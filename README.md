@@ -1,6 +1,6 @@
 ## Olá, me chamo Matheus Henrique Barbosa de Melo! :fist_right::fist_left:
 - Sou formado em Análise e Desenvolvimento de Sistemas 
-- Atualmente estudo desenvolvimento BackEnd com Java, Spring Boot e MySQL
+- Atualmente estudo desenvolvimento BackEnd com Java.
 
 ## Habilidades:
 
