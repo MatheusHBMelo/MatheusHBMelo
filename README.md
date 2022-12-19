@@ -46,5 +46,6 @@
   </a>
 </div>
 
+<br></br>
 
 ![Snake animation](https://github.com/MatheusHBMelo/MatheusHBMelo/blob/output/github-contribution-grid-snake.svg)
