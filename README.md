@@ -1,11 +1,8 @@
-## Hello world, my name is Matheus Henrique! :fist_right::fist_left:
+## Hello world, I'm Matheus Henrique B. Melo! :fist_right::fist_left:
 - I have a degree in Systems Analysis and Development. 
 - I am currently studying BackEnd development with the Java language.
 
 ## My skylls:
-
-<br/>
-  <p align="left">
 
 
 ## Contatos:
@@ -16,18 +13,3 @@
 </br>
 
 ![Snake animation](https://github.com/MatheusHBMelo/MatheusHBMelo/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**MatheusHBMelo/MatheusHBMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
