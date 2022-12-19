@@ -1,15 +1,12 @@
-## Olá, me chamo Matheus Henrique Barbosa de Melo! :fist_right::fist_left:
-- Sou formado em Análise e Desenvolvimento de Sistemas 
-- Atualmente estudo desenvolvimento BackEnd com Java.
+## Hello world, my name is Matheus Henrique! :fist_right::fist_left:
+- I have a degree in Systems Analysis and Development. 
+- I am currently studying BackEnd development with the Java language.
 
-## Habilidades:
+## My skylls:
 
-- **Java**
-- MySQL
-- Git
-<br>
+<br/>
+  <p align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHBMelo&layout=compact&theme=chartreuse-dark)](https://github.com/matheushbmelo/github-readme-stats)
 
 ## Contatos:
 
