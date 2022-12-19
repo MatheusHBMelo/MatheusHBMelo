@@ -2,7 +2,7 @@
 - I have a degree in Systems Analysis and Development. 
 - I am currently studying BackEnd development with the Java language.
 
-## My skylls:
+## My skills:
 
 
 ## Contatos:
