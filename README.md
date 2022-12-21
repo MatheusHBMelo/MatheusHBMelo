@@ -3,8 +3,7 @@
 - I am currently studying BackEnd development with the Java language.
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
 
 ## My skills:
 <div align="left">
