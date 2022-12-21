@@ -3,8 +3,6 @@
 - I am currently studying BackEnd development with the Java language.
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My skills:
 <div align="left">
 <img src="https://img.shields.io/badge/java-intermediário-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
