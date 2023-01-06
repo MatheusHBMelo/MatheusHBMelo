@@ -44,7 +44,3 @@
   <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </div>
-
-<br></br>
-
-![Snake animation](https://github.com/MatheusHBMelo/MatheusHBMelo/blob/output/github-contribution-grid-snake.svg)
