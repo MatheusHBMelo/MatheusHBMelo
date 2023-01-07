@@ -1,13 +1,14 @@
 ## Hello world, I'm Matheus Henrique B. Melo! :fist_right::fist_left:
 - I have a degree in Systems Analysis and Development. 
-- I am currently studying BackEnd development with the Java language.
+- I am currently studying Backend development with the Java language.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=github_dark)
 
 ## My skills:
 <div align="left">
-<img src="https://img.shields.io/badge/java-intermediário-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-intermediary-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/mysql-basic-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
 
 ## Tools:
@@ -34,10 +35,6 @@
   
 <a href="mailto:matheushbmelo@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-<a href="https://github.com/MatheusHBMelo" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
 <a href="https://dev.to/matheushbmelo" alt="DevTo">
