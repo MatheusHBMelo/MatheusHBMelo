@@ -3,7 +3,7 @@
 - I am currently studying BackEnd development with the Java language.
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=github_dark)
 
 ## My skills:
 <div align="left">
@@ -44,7 +44,3 @@
   <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </div>
-
-<br>
-
-![Snake animation](https://github.com/matheushbmelo/matheushbmelo/blob/output/github-contribution-grid-snake.svg)
