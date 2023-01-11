@@ -1,8 +1,8 @@
-## Hello world, I'm Matheus Henrique!
+## Hello world, I'm Matheus Henrique! 📌
 - Graduated in Systems Analysis and Development.
 - Studying Backend development with Java > SpringBoot > Mysql - I'm a Junior Developer from Brazil.
 - Practical experience with agile methodologies.
-- I dont work at the moment.
+- I ❤️ technology, aviation, football, running and cycling.
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=github_dark)
