@@ -11,7 +11,8 @@
 ## My skills:
 <div align="left">
 <img src="https://img.shields.io/badge/java-intermediary-4877f4.svg?style=for-the-badge&logo=Java&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/mysql-basic-4877f4.svg?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-basic-4877f4.svg?style=for-the-badge&logo=spring&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/mysql-basic-4877f4.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 ## Tools:
