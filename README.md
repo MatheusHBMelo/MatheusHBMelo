@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+welcome+to+my+profile!;I'm+Matheus+Barbosa!&font=Fira%20Code&size=30&center=true&width=540&height=60&duration=4000&pause=1000" alt="Readme Matheus Barbosa">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+welcome+to+my+profile!;I'm+Matheus+Barbosa!&font=Fira%20Code&size=30&weight=600&center=true&width=540&height=60&duration=4000&pause=1000" alt="Readme Matheus Barbosa">
 </p>
 
 ### About me: 
@@ -17,7 +17,6 @@
 <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&langs_count=4&theme=github_dark"/><br><br>
-  <img height="28em" src="https://komarev.com/ghpvc/?username=matheushbmelo&color=blue&style=for-the-badge"/>
 </div><br>
 
 ### Skills:
