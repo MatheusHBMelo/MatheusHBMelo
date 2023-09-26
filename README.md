@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=318BF7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Hello%2C+welcome+to+my+profile!;I'm+Matheus+Barbosa!)](https://git.io/typing-svg)
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+welcome+to+my+profile!;I'm+Matheus+Barbosa!&font=Fira%20Code&size=30&center=true&width=540&height=60&duration=4000&pause=1000" alt="Readme Matheus Barbosa">
+</p>
 
 ### About me: 
 
