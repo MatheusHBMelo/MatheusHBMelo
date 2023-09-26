@@ -17,6 +17,7 @@
 <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheushbmelo&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushbmelo&layout=compact&langs_count=4&theme=github_dark"/><br><br>
+  <img height="28em" src="https://komarev.com/ghpvc/?username=matheushbmelo&color=blue&style=for-the-badge"/>
 </div><br>
 
 ### Skills:
