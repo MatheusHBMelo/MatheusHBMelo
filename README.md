@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+welcome+to+my+profile!;I'm+Matheus+Barbosa!&font=Fira%20Code&size=30&weight=600&center=true&width=540&height=60&duration=4000&pause=1000" alt="Readme Matheus Barbosa">
 </p>
 
+<div align="center">
+  <blockquote>
+    "The old things have passed away. Behold, all things have become new" - 2 Coríntios 5:17
+  </blockquote>
+</div>
+
 ### About me: 
 
 - Graduated in Systems Analysis and Development.
