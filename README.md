@@ -4,7 +4,7 @@
 
 <div align="center">
   <blockquote>
-    "The old things have passed away. Behold, all things have become new" - 2 Coríntios 5:17
+    "Where there is work, there is wealth, and where there is cooperation, there is peace"
   </blockquote>
 </div>
 
